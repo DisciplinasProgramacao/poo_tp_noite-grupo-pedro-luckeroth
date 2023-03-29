@@ -1,10 +1,10 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10674615)
-# Nome do projeto
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+# Trabalho em grupo POO
+Realizar a tarefa POO_TP_Series_s1.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
+* Pedro Henrique Gomes Lückeroth
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -13,6 +13,6 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
+* João Caram
 * Nome completo do professor 2
 
