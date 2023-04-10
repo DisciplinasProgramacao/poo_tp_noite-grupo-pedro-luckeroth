@@ -5,14 +5,13 @@ Realizar a tarefa POO_TP_Series_s1.
 ## Alunos integrantes da equipe
 
 * Pedro Henrique Gomes Lückeroth
-* Nome completo do aluno 2
+* Matheus da Costa Silva
 * Nome completo do aluno 3
 * Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
+* Nome completo do aluno 5
 
 ## Professores responsáveis
 
 * João Caram
-* Nome completo do professor 2
+
 
